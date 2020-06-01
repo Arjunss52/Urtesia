@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To JAM-SHAHRUKH
+#The Credit For This Code Goes To ARJUN
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -387,7 +387,7 @@ logo13 = """
              ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
                !:~~~ .:!M"T#$$$$WX??#MRRMMM!
                ~?WuxiW*`   `"#$$$$8!!!!??!!!
-             :X- M$$$$ \033[1;93mJAM \033[1;95m`"T#$T~!8$WUXU~
+             :X- M$$$$ \033[1;93mARJUN-DEV\033[1;95m`"T#$T~!8$WUXU~
             :%`  ~#$$$m:        ~!~ ?$$$$$$
           :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
 .....   -~~:<` !    ~?T#$$@@W@*?$$ \033[1;93mARJUN \033[1;95m/`
